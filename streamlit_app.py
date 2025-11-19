@@ -6,8 +6,4 @@ your-repo/
 │   ├─ 3_LibraryChatbot.py # 실습 3: 도서관 챗봇
 │   └─ 4_ChatPDF.py        # 실습 4: ChatPDF
 └─ requirements.txt
-
-streamlit
-openai
-
   
